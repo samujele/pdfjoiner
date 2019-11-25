@@ -5,3 +5,6 @@ For the first time multi select desired pdfs and pull them into pdfjoin.cmd, the
 
 
 Next time just multiselect pdf files, right-click the pdffile you want first to appear in joined pdf file, go to Send To, and left-click the pdfjoin.cmd
+
+
+![](20191125_131318.gif)
